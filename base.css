@@ -1,0 +1,134 @@
+/* ==========================================
+   BASE TYPOGRAPHY
+   ========================================== */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #26352c;
+    line-height: 1.6;
+    margin: 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+
+/* ==========================================
+   LINKS
+   ========================================== */
+
+a {
+    color: #315c43;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* ==========================================
+   IMAGES
+   ========================================== */
+
+img {
+    max-width: 100%;
+}
+
+
+/* ==========================================
+   HEADER
+   ========================================== */
+
+header {
+    background-color: #dce8df;
+}
+
+
+/* ==========================================
+   FOOTER
+   ========================================== */
+
+footer {
+    background-color: #518d72;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+/* ==========================================
+   POPULAR TAGS
+   ========================================== */
+
+.tag {
+    display: inline-block;
+    padding: 4px 10px;
+    margin: 3px 2px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #333;
+    text-decoration: none;
+}
+
+.tag:hover {
+    text-decoration: none;
+}
+
+
+.tag-html {
+    background-color: #e8a6c2;
+}
+
+.tag-css {
+    background-color: #6bb69a;
+}
+
+.tag-bootstrap {
+    background-color: #555555;
+    color: white;
+}
+
+.tag-javascript {
+    background-color: #9c5fa8;
+    color: white;
+}
+
+.tag-web {
+    background-color: #d95c63;
+    color: white;
+}
+
+.tag-responsive {
+    background-color: #e7c85c;
+}
+
+.tag-ui {
+    background-color: #d5b7c9;
+}
+
+.tag-programming {
+    background-color: #e8a6c2;
+}
+
+.tag-frontend {
+    background-color: #e8a6c2;
+}
+
+.tag-coding {
+    background-color: #e8a6c2;
+}
